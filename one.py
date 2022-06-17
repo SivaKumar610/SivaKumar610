@@ -1,3 +1,3 @@
-a=52
+a=5
 b=58
-print (a-b)
+print (a*b)
